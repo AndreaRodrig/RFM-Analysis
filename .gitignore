@@ -1,0 +1,1 @@
+-e "__pycache__/\n*.py[cod]\n*.pkl\n*.csv\n*.ipynb_checkpoints/\n.env\n.venv\n*.log\n.DS_Store" 
